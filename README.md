@@ -8,13 +8,13 @@ In computational science, Particle swarm optimization (PSO) is a computational m
 
 ## Requirements
 
-..* Python 3.x
+- Python 3.x
 
-..* Pandas
+- Pandas
 
-..* Numpy
+- Numpy
 
-..* Matplotlib
+- Matplotlib
 
 
 ![Similarity to Research paper](https://github.com/DivyanshPandey99/Portfolio-Optimization-PSO/blob/master/Particle_Swarm_Optimization.png)
