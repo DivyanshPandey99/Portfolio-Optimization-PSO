@@ -14,7 +14,6 @@ The Sharpe Ratio is calculated as:
 
 ```
 Sharpe Ratio = (Rp - Rf) / σp
-
 ```
 
 where
