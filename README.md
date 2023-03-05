@@ -16,12 +16,17 @@ In computational science, Particle swarm optimization (PSO) is a computational m
 
 - Matplotlib
 
+## Output
+
+Similarity to output in research paper in reference section:
 
 ![Similarity to Research paper](https://github.com/DivyanshPandey99/Portfolio-Optimization-PSO/blob/master/Particle_Swarm_Optimization.png)
 
+**Final output:**
+
 ![Final output](https://github.com/DivyanshPandey99/Portfolio-Optimization-PSO/blob/master/Particle_Swarm_Optimization-2.png)
 
-References:
+## References
 
 ['Particle swarm optimization approach to portfolio optimization'](https://staff.fmi.uvt.ro/~daniela.zaharie/ma2016/projects/applications/portfolio_optimization/PSO%2Bportfolio.pdf)
 
