@@ -52,7 +52,7 @@ Similarity to output in research paper in reference section:
 
 ## References
 
-[Particle swarm optimization approach to portfolio optimization - Tunchan Cura](https://staff.fmi.uvt.ro/~daniela.zaharie/ma2016/projects/applications/portfolio_optimization/PSO%2Bportfolio.pdf)
+- [Particle swarm optimization approach to portfolio optimization - Tunchan Cura](https://staff.fmi.uvt.ro/~daniela.zaharie/ma2016/projects/applications/portfolio_optimization/PSO%2Bportfolio.pdf)
 
-['Portfolio Optimization using MPT in Python'](https://www.analyticsvidhya.com/blog/2021/04/portfolio-optimization-using-mpt-in-python/)
+- [Portfolio Optimization using MPT in Python](https://www.analyticsvidhya.com/blog/2021/04/portfolio-optimization-using-mpt-in-python/)
 
